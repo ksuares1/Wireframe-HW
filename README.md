@@ -8,3 +8,7 @@ This is a web design skelton. This wireframe outlines a website's layout.
 
 - HTML5
 - CSS
+
+## Clone
+
+Clone this repository https://github.com/ksuares1/Wireframe-HW.git
